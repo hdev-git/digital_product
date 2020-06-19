@@ -1,0 +1,14 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://faros.hsjdbcn.org/sites/default/files/styles/shareimg/public/fiesta-discoteca-adolescente.jpg?itok=HOauEZXk');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+body div
+{
+    display: flex;
+    justify-content: center;
+}
